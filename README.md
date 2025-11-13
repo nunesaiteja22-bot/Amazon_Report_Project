@@ -33,5 +33,6 @@
 ## How to Reproduce
 ### 1. Clone repo
 ```bash
-git clone https://github.com/<your-username>/amazon-sales-case-study.git
+git clone https://github.com/nunesaiteja22-bot/amazon-sales-case-study.git
 cd amazon-sales-case-study
+
